@@ -1,0 +1,18 @@
+permalink: pretty
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+url: http://milesandkilo.com
+
+defaults:
+  -
+    scope:
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Mike Burns"
