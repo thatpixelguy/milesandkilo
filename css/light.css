@@ -1,0 +1,47 @@
+body {
+  background-color: #fff;
+  width: 636px;
+  margin: 0 auto;
+  color: #333;
+  font-family: "Arial";
+}
+
+.header {
+  margin-top: 64px;
+  margin-bottom: 24px;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 12px;
+  margin-bottom: 64px;
+}
+
+img { 
+  image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
+  image-rendering: -moz-crisp-edges;          /* Firefox                        */
+  image-rendering: -o-crisp-edges;            /* Opera                          */
+  image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
+  image-rendering: pixelated; /* Chrome */
+  image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
+  -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  color: #e45c10;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: none;
+  color: #fca044;
+}
+
+p { 
+  line-height: 140%;
+}
