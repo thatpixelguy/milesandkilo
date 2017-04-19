@@ -21,4 +21,4 @@ If he's standing in front of a bunch of suspiciously weak-looking blocks, he'll 
 
 (Punching GIF goes here.)
 
-**NEXT: [Kilo's Actions](/manual/kiloactions)**
+**NEXT: [Part 4: Kilo's Actions](/manual/kiloactions)**
