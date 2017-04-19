@@ -15,7 +15,7 @@ Hi! I'm Mike Burns, the creator of *Miles & Kilo*. Thanks for checking out my ga
 
 Simply tap on the left side of the screen to perform a jump. A quick tap will let you cross short gaps, hop over low obstacles, and jump onto the heads of baddies.
 
-[Imgur](http://i.imgur.com/110mLHD.gifv)
+![Short Jump Video](http://i.imgur.com/110mLHD.gifv)
 
 Hold your left thumb down to perform a longer, higher jump. This will allow you to cover much longer distances and clear higher walls.
 
