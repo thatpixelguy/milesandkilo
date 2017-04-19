@@ -5,8 +5,6 @@ published: true
 
 # Manual
 
-Hi! I'm Mike Burns, the creator of *Miles & Kilo*. Thanks for checking out my game! If you've played it a little already, you've probably discovered that it's pretty tough. This online manual will give you some pointers to help you improve and eventually beat the game.
-
 *Note: This manual is currently a work in progress. After I finish writing it up, I'll add a few short videos to demonstrate a variety of techniques you can use in the game.*
 
 ## Part 1: Jumping
