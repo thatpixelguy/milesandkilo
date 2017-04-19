@@ -2,10 +2,8 @@
 layout: light
 published: true
 ---
-Thanks for checking out Miles & Kilo! In order to keep the experience as authentically old school as possible, the game contains no built-in tutorials. If you want to jump right in and figure things out on your own, go for it!
+Thanks for playing Miles & Kilo! This is a short guide for the game that explains its controls and demonstrates a few important techniques.
 
-For everyone else, I decided to make this online manual to explain the game's controls and demonstrate a few important techniques. This isn't an exhaustive list of everything you can do in the game, but it covers the basics with some cool videos.
-
-If you'd like more tips, please feel free to <a href="mailto:mike@thepixelguy.com">send me an email</a>; I'd be happy to help!
+If you'd like more tips or need some help with something in particular, please feel free to <a href="mailto:mike@thepixelguy.com">send me an email</a>; I'd be happy to help!
 
 **NEXT: [Part 1: Jumping](/manual/jumping)**
