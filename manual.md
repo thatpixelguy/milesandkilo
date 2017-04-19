@@ -15,7 +15,7 @@ Hi! I'm Mike Burns, the creator of *Miles & Kilo*. Thanks for checking out my ga
 
 Simply tap on the left side of the screen to perform a jump. A quick tap will let you cross short gaps, hop over low obstacles, and jump onto the heads of baddies.
 
-(Short jump GIF goes here.)
+[Imgur](http://i.imgur.com/110mLHD.gifv)
 
 Hold your left thumb down to perform a longer, higher jump. This will allow you to cover much longer distances and clear higher walls.
 
@@ -58,5 +58,3 @@ If he's standing in front of a bunch of suspiciously weak-looking blocks, he'll 
 When Kilo is running on the ground, a right-tap will make him somersault. Somersaulting allows Kilo to roll under small tunnels and smash through breakable blocks.
 
 When Kilo is jumping, a right-tap will make him perform a homing attack on the nearest baddie (if the baddie is within range.) After hitting the baddie, Kilo will bounce in the air -- remember, you can use this to clear long gaps!
-
-
