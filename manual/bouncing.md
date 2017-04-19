@@ -19,4 +19,4 @@ Bouncing off a baddie works the same as a jump. If you leave your left thumb off
 
 **Pro Tip:** You can combo jumping and bouncing in a variety of different ways. For instance, you can do a long jump onto a baddie, then do a long bounce off; or do a short jump onto a baddie, then a long bounce off; etc. 
 
-**NEXT: [Miles's Actions](/manual/milesactions)**
+**NEXT: [Part 3: Miles's Actions](/manual/milesactions)**
