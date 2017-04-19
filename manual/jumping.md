@@ -23,6 +23,13 @@ Hold your left thumb down to perform a longer, higher jump. This will allow you 
     <source type="video/mp4" src="http://i.imgur.com/9Wpf3G8.mp4">
 </video>
 
-**Pro Tip:** As soon as you release your thumb while airborne, you start to drop. This allows you to make more accurate jumps that are kind of in-between a short hop and a long jump.
+### Mid jumps
+
+As soon as you release your left thumb while jumping, you start to drop quickly. This allows you to make more accurate jumps that are kind of in-between a short hop and a long jump.
+
+<video autoplay="" loop="" muted="">
+	<source type="video/webm" src="http://i.imgur.com/cjZsNLc.webm">
+    <source type="video/mp4" src="http://i.imgur.com/cjZsNLc.mp4">
+</video>
 
 **NEXT: [Part 2: Bouncing](/manual/bouncing)**
