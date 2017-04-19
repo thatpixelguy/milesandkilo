@@ -1,3 +1,8 @@
+---
+layout: default
+published: true
+---
+
 ## Part 2: Bouncing off baddies
 
 ### Short bounces
