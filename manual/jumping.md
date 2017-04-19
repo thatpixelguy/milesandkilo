@@ -9,6 +9,11 @@ published: true
 
 Simply tap on the left side of the screen to perform a jump. A quick tap will let you cross short gaps, hop over low obstacles, and jump onto the heads of baddies.
 
+<video autoplay="" loop="" muted="">
+	<source type="video/webm" src="http://i.imgur.com/A9ELh38.webm">
+    <source type="video/mp4" src="http://i.imgur.com/A9ELh38.mp4">
+</video>
+
 ![Short Jump Video](http://i.imgur.com/A9ELh38.gif)
 
 ### Long jumps
