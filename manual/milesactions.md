@@ -1,5 +1,6 @@
 ---
 layout: light
+published: true
 ---
 
 ## Part 3: Miles's Actions
@@ -19,3 +20,5 @@ If he's standing in front of a tunnel, a right-tap will make him slide under the
 If he's standing in front of a bunch of suspiciously weak-looking blocks, he'll punch through them.
 
 (Punching GIF goes here.)
+
+**NEXT: [Kilo's Actions](/manual/kiloactions)**
