@@ -5,7 +5,7 @@ published: true
 
 # Manual
 
-*Note: This manual is currently a work in progress. After I finish writing it up, I'll add a few short videos to demonstrate a variety of techniques you can use in the game.*
+*Note: This manual is currently a work in progress.*
 
 ## Part 1: Jumping
 
