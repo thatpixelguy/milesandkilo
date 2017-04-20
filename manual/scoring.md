@@ -1,3 +1,7 @@
+---
+layout: light
+---
+
 ## Part 5: Scoring
 
 In each level, you can earn one of five ranks: S, A, B, C, or D. Here's the following grading criteria:
