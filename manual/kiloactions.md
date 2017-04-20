@@ -10,7 +10,7 @@ published: true
 When Kilo is running on the ground, a right-tap will make him somersault. Somersaulting allows Kilo to roll under small tunnels and smash through breakable blocks.
 
 <video autoplay="" loop="" muted="">
-	<source type="video/webm" src="http://i.imgur.com/IuvR2ZC.webm">
+    <source type="video/webm" src="http://i.imgur.com/IuvR2ZC.webm">
     <source type="video/mp4" src="http://i.imgur.com/IuvR2ZC.mp4">
 </video>
 
@@ -19,7 +19,7 @@ When Kilo is running on the ground, a right-tap will make him somersault. Somers
 When Kilo is jumping, a right-tap will make him perform a homing attack on the nearest baddie (if the baddie is within range.) After hitting the baddie, Kilo will bounce in the air -- remember, you can use this to clear long gaps!
 
 <video autoplay="" loop="" muted="">
-	<source type="video/webm" src="http://i.imgur.com/6W6PE3s.webm">
+    <source type="video/webm" src="http://i.imgur.com/6W6PE3s.webm">
     <source type="video/mp4" src="http://i.imgur.com/6W6PE3s.mp4">
 </video>
 
