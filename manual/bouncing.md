@@ -23,6 +23,6 @@ Hold your thumb down after landing on a baddie to bounce higher and farther. (No
     <source type="video/mp4" src="http://i.imgur.com/1HOH6dP.mp4">
 </video>
 
-Remember: You can combo jumping and bouncing in a variety of different ways. For instance, you can do a long jump onto a baddie, then do a long bounce off; or do a short jump onto a baddie, then a long bounce off; or a long jump, then a short bounce, etc. 
+You can combo jumping and bouncing in a variety of different ways. For instance, you can do a short jump onto a baddie, then do a long bounce off.
 
 **NEXT: [Part 3: Miles's Actions](/manual/milesactions)**
