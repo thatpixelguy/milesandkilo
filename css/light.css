@@ -45,3 +45,11 @@ a:active {
 p { 
   line-height: 140%;
 }
+
+td {
+  padding: 4px 8px;
+}
+
+tr:nth-child(even) {background: #DDD}
+tr:nth-child(odd) {background: #FFF}
+
