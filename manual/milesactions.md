@@ -9,7 +9,7 @@ In general, actions are performed by simply tapping the right side of the screen
 
 ### Throwing fruit
 
-By default, tapping with your right thumb will make Miles throw fruit. 
+By default, tapping with your right thumb will make Miles throw fruit. Miles can carry up to five pieces of fruit a time, and he can replenish his supply by picking up more fruit.
 
 <video autoplay="" loop="" muted="">
 	<source type="video/webm" src="http://i.imgur.com/k9RWZDg.webm">
