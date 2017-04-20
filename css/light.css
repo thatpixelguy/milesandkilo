@@ -46,7 +46,7 @@ p {
   line-height: 140%;
 }
 
-table {
+table, tr, td, th {
   border: 0;
 }
 
