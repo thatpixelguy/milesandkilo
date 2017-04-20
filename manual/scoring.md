@@ -10,7 +10,7 @@ In each level, you can earn one of five ranks: S, A, B, C, or D. Here's the foll
 1. Beat the level's target time.
 2. Collected every coin in the level.
 3. Finished the level with five pieces of fruit.
-4. Beat the level on your first attempt. (In the current playthrough.)
+4. Beat the level on your first attempt in the current playthrough.
 
 If you accomplish all four of these, you'll get an S. If you miss one then you'll get an A, if you miss two then you'll get a B, and so on.
 
