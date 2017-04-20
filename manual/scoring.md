@@ -25,3 +25,17 @@ In Story Mode, you'll receive a score bonus for the rank you earned:
 | D      | 0     |
 
 S-Ranks are intended to be super difficult to get, and they can only be earned in Story Mode. In Practice Mode you can earn up to an A-Rank. (#4 on the grading criteria is discounted in Practice Mode.)
+
+Each time you die, your score is reset to the value it was when you first entered the level. (In other words, scoring a few points and then dying repeatedly won't increase your overall score.)
+
+### Endgame Scoring
+
+At the end of the game, three of your stats will be posted to the leaderboards: Your points score, total time, and total deaths.
+
+Your points score represents your overall performance, taking into account how often you died, how many coins and fruit you collected, how many baddies you KO'd, how quickly you beat the game, etc.
+
+Your total playthrough time indicates how long it took you to beat the game. *NOTE: This does **not** include how much time you spent watching the story cutscenes, nor the amount spent in the pause menu.*
+
+Your total deaths indicates how many times you died before beating the game.
+
+*Miles & Kilo* is a tough game, but if you manage to beat it, try playing through it again! You'll be surprised at how much your performance improves each time.
