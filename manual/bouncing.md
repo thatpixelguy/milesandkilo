@@ -16,13 +16,13 @@ If you land on the head of a baddie, you'll bounce off them. This allows you to 
 
 ### Long bounces
 
-Bouncing off a baddie works the same as a jump. If you leave your left thumb off the screen after you land on a baddie, then the bounce will be short. If you hold your left thumb down, however, then your bounce will be higher and longer. Knowing when to do a short bounce or a long bounce is often the key to passing tricky levels.
+Hold your thumb down after landing on a baddie to bounce higher and farther. (Note: This also works when bouncing off springs and ballons!)
 
 <video autoplay="" loop="" muted="">
 	<source type="video/webm" src="http://i.imgur.com/1HOH6dP.webm">
     <source type="video/mp4" src="http://i.imgur.com/1HOH6dP.mp4">
 </video>
 
-**Pro Tip:** You can combo jumping and bouncing in a variety of different ways. For instance, you can do a long jump onto a baddie, then do a long bounce off; or do a short jump onto a baddie, then a long bounce off; etc. 
+Remember: You can combo jumping and bouncing in a variety of different ways. For instance, you can do a long jump onto a baddie, then do a long bounce off; or do a short jump onto a baddie, then a long bounce off; or a long jump, then a short bounce, etc. 
 
 **NEXT: [Part 3: Miles's Actions](/manual/milesactions)**
