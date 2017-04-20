@@ -1,5 +1,6 @@
 ---
 layout: light
+published: true
 ---
 
 ## Part 5: Scoring
@@ -15,11 +16,12 @@ If you accomplish all four of these, you'll get an S. If you miss one then you'l
 
 In Story Mode, you'll receive a score bonus for the rank you earned:
 
-| S-Rank | 4000 |
-|--------|------|
-| A-Rank | 3000 |
-| B-Rank | 2000 |
-| C-Rank | 1000 |
-| D-Rank | 0    |
+| Rank   | Bonus |
+|--------|-------|
+| S      | 4000  |
+| A      | 3000  |
+| B      | 2000  |
+| C      | 1000  |
+| D      | 0     |
 
 S-Ranks are intended to be super difficult to get, and they can only be earned in Story Mode. In Practice Mode you can earn up to an A-Rank. (#4 on the grading criteria is discounted in Practice Mode.)
