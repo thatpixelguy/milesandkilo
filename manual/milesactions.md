@@ -12,8 +12,8 @@ In general, actions are performed by simply tapping the right side of the screen
 By default, tapping with your right thumb will make Miles throw fruit. 
 
 <video autoplay="" loop="" muted="">
-	<source type="video/webm" src="http://i.imgur.com/b1mIvBM.webm">
-    <source type="video/mp4" src="http://i.imgur.com/b1mIvBM.mp4">
+	<source type="video/webm" src="http://i.imgur.com/k9RWZDg.webm">
+    <source type="video/mp4" src="http://i.imgur.com/k9RWZDg.mp4">
 </video>
 
 ### Sliding
@@ -21,8 +21,8 @@ By default, tapping with your right thumb will make Miles throw fruit.
 If Miles is in front of a tunnel, a right-tap will make him slide under the tunnel.
 
 <video autoplay="" loop="" muted="">
-	<source type="video/webm" src="http://i.imgur.com/GfqcNqb.webm">
-    <source type="video/mp4" src="http://i.imgur.com/GfqcNqb.mp4">
+	<source type="video/webm" src="http://i.imgur.com/i0NNGeN.webm">
+    <source type="video/mp4" src="http://i.imgur.com/i0NNGeN.mp4">
 </video>
 
 ### Punching
@@ -30,8 +30,8 @@ If Miles is in front of a tunnel, a right-tap will make him slide under the tunn
 If Miles is in front of a bunch of suspiciously weak-looking blocks, he'll punch through them.
 
 <video autoplay="" loop="" muted="">
-	<source type="video/webm" src="http://i.imgur.com/Bcs8lCc.webm">
-    <source type="video/mp4" src="http://i.imgur.com/Bcs8lCc.mp4">
+	<source type="video/webm" src="http://i.imgur.com/aYa9k4S.webm">
+    <source type="video/mp4" src="http://i.imgur.com/aYa9k4S.mp4">
 </video>
 
 **NEXT: [Part 4: Kilo's Actions](/manual/kiloactions)**
