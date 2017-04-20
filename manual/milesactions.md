@@ -5,8 +5,6 @@ published: true
 
 ## Part 3: Miles's Actions
 
-In general, actions are performed by simply tapping the right side of the screen. Miles and Kilo each have a different set of actions, so the action you perform depends on which character you're playing as and what that character is currently doing.
-
 ### Throwing fruit
 
 By default, tapping with your right thumb will make Miles throw fruit. Miles can carry up to five pieces of fruit a time, and he can replenish his supply by picking up more fruit.
