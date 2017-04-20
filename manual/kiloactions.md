@@ -25,6 +25,6 @@ When Kilo is jumping, a right-tap will make him perform a homing attack on the n
 
 **Pro Tip:** It's *usually* a good idea to keep your left thumb held down while chaining homing attacks on a series of baddies. This helps ensure you don't quickly fall to your death.
 
-In general, a good rule of thumb for jumping is to only release your left thumb when you're ready to fall. If you can master that technique then you're in good shape for beating the game.
+In general, a good rule of thumb for jumping is to only release your left thumb when you're ready to fall.
 
 **NEXT:** [Part 5: Scoring](/manual/scoring)
