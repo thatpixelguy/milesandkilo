@@ -10,8 +10,8 @@ published: true
 If you land on the head of a baddie, you'll bounce off them. This allows you to use baddies as platforms to cross super wide gaps.
 
 <video autoplay="" loop="" muted="">
-	<source type="video/webm" src="http://i.imgur.com/swCXAU1.webm">
-    <source type="video/mp4" src="http://i.imgur.com/swCXAU1.mp4">
+	<source type="video/webm" src="http://i.imgur.com/BhMGx8U.webm">
+    <source type="video/mp4" src="http://i.imgur.com/BhMGx8U.mp4">
 </video>
 
 ### Long bounces
@@ -19,8 +19,8 @@ If you land on the head of a baddie, you'll bounce off them. This allows you to 
 Bouncing off a baddie works the same as a jump. If you leave your left thumb off the screen after you land on a baddie, then the bounce will be short. If you hold your left thumb down, however, then your bounce will be higher and longer. Knowing when to do a short bounce or a long bounce is often the key to passing tricky levels.
 
 <video autoplay="" loop="" muted="">
-	<source type="video/webm" src="http://i.imgur.com/iAznDYT.webm">
-    <source type="video/mp4" src="http://i.imgur.com/iAznDYT.mp4">
+	<source type="video/webm" src="http://i.imgur.com/1HOH6dP.webm">
+    <source type="video/mp4" src="http://i.imgur.com/1HOH6dP.mp4">
 </video>
 
 **Pro Tip:** You can combo jumping and bouncing in a variety of different ways. For instance, you can do a long jump onto a baddie, then do a long bounce off; or do a short jump onto a baddie, then a long bounce off; etc. 
