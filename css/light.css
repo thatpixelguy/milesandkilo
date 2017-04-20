@@ -46,8 +46,12 @@ p {
   line-height: 140%;
 }
 
+table {
+  border: 0
+}
+
 td {
-  padding: 4px 8px;
+  padding: 6px 12px;
 }
 
 tr:nth-child(even) {background: #DDD}
