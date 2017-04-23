@@ -14,7 +14,7 @@ In each level, you can earn one of five ranks: S, A, B, C, or D. Here's the grad
 3. Finished the level with five pieces of fruit.
 4. Beat the level on your first attempt in the current playthrough.
 
-If you accomplish all four of these, you'll get an S. If you miss one then you'll get an A, if you miss two then you'll get a B, and so on.
+If you accomplish all four of these, you'll earn an S. If you miss one then you'll earn an A, if you miss two then you'll earn a B, and so on.
 
 In Story Mode, you'll receive a score bonus for the rank you earned:
 
