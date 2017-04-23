@@ -2,7 +2,7 @@
 layout: light
 published: true
 ---
-{% include_relative manual/jumping.md %}
+{% include_relative /manual/jumping.md %}
 
 Thanks for playing Miles & Kilo! This is a short guide for the game that explains its controls and demonstrates a few important techniques.
 
