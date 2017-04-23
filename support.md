@@ -1,5 +1,5 @@
 # Support
 
-If you're looking for some quick tips and pointers for playing the game, try giving the [online manual](/manual) a read.
+If you're looking for some quick tips and pointers for playing the game, you may find the [online manual](/manual) helpful.
 
-If you have more specific questions, feel free to [send me an email](mailto:mike@thepixelguy.com). I'm always happy to help!
+Feel free to [send me an email](mailto:mike@thepixelguy.com) if you have any other questions. I'm always happy to help!
