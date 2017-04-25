@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Russo+One');
+
 body {
   background-color: #3cbcfc;
   width: 636px;
   margin: 0 auto;
   color: #181818;
-  font-family: "Arial";
+  font-family: "Russo One", "Arial";
   padding: 24px;
   background-image: url('/clouds.png');
   background-repeat: repeat-x;
