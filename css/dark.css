@@ -7,6 +7,7 @@ body {
   color: #181818;
   font-family: "Russo One", "Arial";
   padding: 24px;
+  font-size: 18px;
   background-image: url('/clouds.png');
   background-repeat: repeat-x;
   background-attachment: fixed;
