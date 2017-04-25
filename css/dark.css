@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Russo+One');
+@import url('https://fonts.googleapis.com/css?family=Russo+One|Passion+One');
 
 body {
   background-color: #3cbcfc;
   width: 636px;
   margin: 0 auto;
   color: #181818;
-  font-family: "Russo One", "Arial";
+  font-family: "Passion One", "Arial";
   padding: 24px;
   font-size: 18px;
   background-image: url('/clouds.png');
