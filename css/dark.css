@@ -1,9 +1,14 @@
+@font-face {
+    font-family: PixelFont;
+    src: url('/PressStart2P.tff');
+}
+
 body {
   background-color: #3cbcfc;
   width: 636px;
   margin: 0 auto;
   color: #181818;
-  font-family: "Arial";
+  font-family: PixelFont, "Arial";
   padding: 24px;
   background-image: url('/clouds.png');
   background-repeat: repeat-x;
