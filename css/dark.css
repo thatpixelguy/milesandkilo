@@ -2,8 +2,7 @@
 
 body {
   background-color: #3cbcfc;
-  width: 646px;
-  padding: 0 5px;
+  width: 656px;
   margin: 0 auto;
   color: #181818;
   font-family: "Passion One", "Arial";
@@ -13,6 +12,11 @@ body {
   background-repeat: repeat-x;
   background-attachment: fixed;
   background-position: bottom; 
+}
+
+.container {
+  width: 636px;
+  margin: 0 auto;
 }
 
 .header {
