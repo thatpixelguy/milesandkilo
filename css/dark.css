@@ -12,6 +12,7 @@ body {
   background-repeat: repeat-x;
   background-attachment: fixed;
   background-position: bottom; 
+  min-height: 1920px;
 }
 
 .container {
