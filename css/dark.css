@@ -1,15 +1,9 @@
-@font-face {
-    font-family: PixelFont;
-    src: url('/ProFontWindows.ttf') format('truetype');
-}
-
 body {
   background-color: #3cbcfc;
   width: 636px;
   margin: 0 auto;
   color: #181818;
-  font-family: PixelFont, "Arial";
-  font-size: 18px;
+  font-family: "Arial";
   padding: 24px;
   background-image: url('/clouds.png');
   background-repeat: repeat-x;
