@@ -18,6 +18,8 @@ body {
 .container {
   width: 636px;
   margin: 0 auto;
+  min-height: 100vh;
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .header {
