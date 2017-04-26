@@ -2,4 +2,4 @@
 
 ### iPhone Screenshots
 
-![]({{site.baseurl}}//screenshots/iphone/0.png)
+![]({{site.baseurl}}/screenshots/iphone/0.png)
