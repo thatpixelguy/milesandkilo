@@ -1,11 +1,9 @@
 # Screenshots
 
 <div class='textblock'>
-<p>You can download an archive of the screenshots here:</p>
+<p>You can download an archive of the screenshots below. The archive also includes the app icon and some extra screenshots that weren't used on the App Store page.</p>
 
-<p><a href='/screenshots.zip'>screenshots.zip</a></p>
-
-<p><a href='https://www.youtube.com/watch?v=jfLk9utLKcc'>YouTube Trailer</a></p>
+<p><a href='/screenshots.zip'>screenshots.zip</a> | <a href='https://www.youtube.com/watch?v=jfLk9utLKcc'>YouTube Trailer</a></p>
 </div>
 
 ### iPhone Screenshots (16:9)
