@@ -4,7 +4,7 @@ You can download an archive of the screenshots here:
 
 [screenshots.zip](/screenshots.zip)
 
-### iPhone Screenshots
+### iPhone Screenshots (16:9)
 
 <a href="/screenshots/iphone/0.png">
 	<img src="/screenshots/iphone/0.png" width="640" >
@@ -26,7 +26,7 @@ You can download an archive of the screenshots here:
 	<img src="/screenshots/iphone/4.png" width="640" >
 </a>
 
-### iPad Screenshots
+### iPad Screenshots (4:3)
 
 <a href="/screenshots/ipad/0.png">
 	<img src="/screenshots/ipad/0.png" width="512" >
