@@ -1,9 +1,9 @@
 # Screenshots
 
 <div class='textblock'>
-You can download an archive of the screenshots here:
+<p>You can download an archive of the screenshots here:</p>
 
-[screenshots.zip](/screenshots.zip)
+<p><a href='/screenshots.zip'>screenshots.zip</a></p>
 </div>
 
 ### iPhone Screenshots (16:9)
