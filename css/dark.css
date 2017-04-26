@@ -54,3 +54,8 @@ a:active {
   text-decoration: none;
   color: #fff;
 }
+
+p {
+  background-color: rgba(1, 1, 1, 0.8);
+  padding: 16px;
+}
