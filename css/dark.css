@@ -12,7 +12,10 @@ body {
   font-family: "Passion One", "Arial";
   padding: 0px;
   font-size: 24px;
-  background-image: url('/clouds.png') repeat-x center bottom;
+  background-image: url('/clouds.png');
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+  background-position: bottom; 
   min-height: 960px;
 }
 
