@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Russo+One|Passion+One');
 
+html {
+  min-height: 100%;
+}
+
 body {
   background-color: #3cbcfc;
   width: 686px;
@@ -8,10 +12,7 @@ body {
   font-family: "Passion One", "Arial";
   padding: 0px;
   font-size: 24px;
-  background-image: url('/clouds.png');
-  background-repeat: repeat-x;
-  background-attachment: fixed;
-  background-position: bottom; 
+  background-image: url('/clouds.png') repeat-x center bottom;
   min-height: 960px;
 }
 
