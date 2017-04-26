@@ -4,6 +4,8 @@
 <p>You can download an archive of the screenshots here:</p>
 
 <p><a href='/screenshots.zip'>screenshots.zip</a></p>
+
+<p><a href='https://www.youtube.com/watch?v=jfLk9utLKcc'>YouTube Trailer</a></p>
 </div>
 
 ### iPhone Screenshots (16:9)
