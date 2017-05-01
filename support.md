@@ -1,4 +1,4 @@
-<div class='textblock' markdown=1>
+<div class='textblock' markdown="1">
 # Support
 
 If you're looking for some quick tips and pointers for playing the game, you may find the [online manual](/manual) helpful.
