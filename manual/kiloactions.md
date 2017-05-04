@@ -16,7 +16,7 @@ When Kilo is running on the ground, a right-tap will make him somersault. Somers
 
 ### Homing attacks
 
-When Kilo is jumping, a right-tap will make him perform a homing attack on the nearest baddie (if the baddie is within range.) After hitting the baddie, Kilo will bounce in the air -- remember, you can use this to clear long gaps!
+When Kilo is jumping, a right-tap will make him dash attack towards the nearest baddie within range. After hitting the baddie, Kilo will bounce in the air -- remember, you can use this to clear long gaps!
 
 <video autoplay="" loop="" muted="">
     <source type="video/webm" src="http://i.imgur.com/6W6PE3s.webm">
