@@ -7,7 +7,7 @@ published: true
 
 ### Short jumps
 
-Simply tap on the left side of the screen to perform a jump. A quick tap will let you cross short gaps, hop over low obstacles, and jump onto the heads of baddies.
+Tap on the left side of the screen to jump. A quick tap will let you cross short gaps, hop over low obstacles, and jump onto the heads of baddies.
 
 <video autoplay="" loop="" muted="">
 	<source type="video/webm" src="http://i.imgur.com/pa00IJg.webm">
@@ -25,7 +25,7 @@ Hold your left thumb down to perform a longer, higher jump. This will allow you 
 
 ### Mid jumps
 
-As soon as you release your left thumb while jumping, you start to drop quickly. This allows you to make more accurate jumps that are kind of in-between a short hop and a long jump.
+As soon as you release your left thumb while jumping, you start to drop quickly. This allows you to make more accurate jumps that are between a short jump and a long jump.
 
 <video autoplay="" loop="" muted="">
 	<source type="video/webm" src="http://i.imgur.com/ccE8KgH.webm">
