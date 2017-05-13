@@ -48,6 +48,7 @@ img {
 a:link, a:visited {
   text-decoration: none;
   color: #e45c10;
+  font-weight: bold;
 }
 
 a:hover {
