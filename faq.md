@@ -16,6 +16,12 @@ I'm working on an update that will allow players to replay levels in the main st
 
 Currently, part of the criteria for earning an S-Rank is to have zero deaths on the level you're attempting, which is only really meaningful in the main story mode. However, this feels a little extreme, and I'm planning to remove this criteria in the next update.
 
+### I can't progress to the next level
+
+It's possible you're playing Practice Mode instead of the main story mode. Practice Mode allows you to replay levels, but won't allow you progress to new ones.
+
+This will be changed to be more intuitive in a future update.
+
 ### The second boss is super hard!
 
 Yes he is, sorry about that! In the next update you'll be able to deflect his boomerangs by throwing fruit at them, but you'll still need to learn how to jump over his boomerangs if you want the best score possible.
