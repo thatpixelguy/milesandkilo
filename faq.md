@@ -10,7 +10,7 @@ Currently, you can only replay levels in Practice Mode. There are two ways to ac
 
 Replaying levels in story mode was originally disabled for a host of reasons, but mostly because replaying levels can cause issues with score tracking for the online leaderboards. 
 
-I'm working on an update that will allow players to replay levels in the main story mode. Leaderboard competition will be moved into its own mode called "Time Attack."
+I'm working on an update that will allow players to replay levels in the main story mode, and online leaderboard competition will be moved into its own mode called "Time Attack."
 
 ### Why can't I earn S-Ranks in Practice Mode?
 
