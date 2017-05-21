@@ -1,6 +1,10 @@
 <div class='textblock' markdown='1'>
 ## Frequently Asked Questions
 
+### Will there be an Android version?
+
+I'm investigating releasing Miles & Kilo on other platforms, and Android is a definite possibility. Keep an eye out for news later this year.
+
 ### How do I replay levels?
 
 Currently, you can only replay levels in Practice Mode. There are two ways to access Practice Mode:
