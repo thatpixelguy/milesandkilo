@@ -1,3 +1,4 @@
+<div class='textblock' markdown='1'>
 ## Frequently Asked Questions
 
 ### How do I replay levels?
@@ -19,3 +20,4 @@ Currently, part of the criteria for earning an S-Rank is to have zero deaths on 
 
 Yes he is, sorry about that! In the next update you'll be able to deflect his boomerangs by throwing fruit at them, but you'll still need to learn how to jump over his boomerangs if you want the best score possible.
 
+</div>
