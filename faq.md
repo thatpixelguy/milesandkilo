@@ -8,7 +8,7 @@ Currently, you can only replay levels in Practice Mode. There are two ways to ac
 1. On the main menu, scroll through the options until you see "PRACTICE", then tap it.
 2. Alternatively, from the world map you can tap the "< STORY MODE >" text at the top to switch to Practice Mode.
 
-Replaying levels in story mode was originally disabled for a host of reasons, but mostly because replaying levels can cause issues with score tracking for the leaderboards. 
+Replaying levels in story mode was originally disabled for a host of reasons, but mostly because replaying levels can cause issues with score tracking for the online leaderboards. 
 
 I'm working on an update that will allow players to replay levels in the main story mode. Leaderboard competition will be moved into its own mode called "Time Attack."
 
