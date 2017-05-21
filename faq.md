@@ -3,7 +3,7 @@
 
 ### Will there be an Android version?
 
-I'm investigating releasing Miles & Kilo on other platforms, and Android is a definite possibility. Keep an eye out for news later this year.
+I'm looking into releasing Miles & Kilo on other platforms, and Android is a definite possibility. Keep an eye out for news later this year.
 
 ### How do I replay levels?
 
