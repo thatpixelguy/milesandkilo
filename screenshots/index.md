@@ -3,7 +3,7 @@
 <div class='textblock'>
 <p>You can download an archive of the screenshots below. The archive also includes the app icon and some extra screenshots that weren't used on the App Store page.</p>
 
-<p><a href='/steam_screenshots.zip'>steam_screenshots.zip</a> | <a href='https://www.youtube.com/watch?v=jfLk9utLKcc'>YouTube Trailer</a> | <a href='https://itunes.apple.com/us/app/miles-kilo/id1215014040?ls=1&mt=8'>App Store Link</a></p>
+<p><a href='/steam_screenshots.zip'>steam_screenshots.zip</a> | <a href='https://www.youtube.com/watch?v=1A5O0fL3ZsY'>YouTube Trailer</a></p>
 </div>
 
 ### Steam Screenshots (1080p)
