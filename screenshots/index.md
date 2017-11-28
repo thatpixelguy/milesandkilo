@@ -1,7 +1,7 @@
 # Screenshots
 
 <div class='textblock'>
-<p>You can download an archive of the screenshots below. The archive also includes the app icon and some extra screenshots that weren't used on the App Store page.</p>
+<p>You can download an archive of the screenshots in the link below.</p>
 
 <p><a href='/steam_screenshots.zip'>steam_screenshots.zip</a> | <a href='https://www.youtube.com/watch?v=1A5O0fL3ZsY'>YouTube Trailer</a></p>
 </div>
