@@ -7,7 +7,6 @@
 </div>
 
 ### Steam Screenshots (1080p)
-
 <a href="/screenshots/steam/0.png">
 	<img src="/screenshots/steam/0.png" width="640" >
 </a>
