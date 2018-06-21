@@ -1,7 +1,7 @@
 <div class='textblock' markdown="1">
 ## iOS and Steam Support
 
-Feel free to [send me an email](mailto:mike@thepixelguy.com) if you have any questions. I'm always happy to help!
+Feel free to [email Mike](mailto:mike@thepixelguy.com) if you have any questions.
 
 ## Nintendo Switch Support
 
