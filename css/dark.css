@@ -59,24 +59,27 @@ a:active {
   text-decoration: none;
   color: #fca044;
 }
-
 .textblock {
+  /*
   background-color: rgba(255, 255, 255, 0.75);
   padding: 1px 24px;
   border-radius: 48px;
   border-bottom: 15px solid rgba(0, 0, 0, 0.2);
+  */
 }
 
 h1, h2, h3, h4 {
   color: white;
+  text-shadow: 2px 2px black;
   background-color: #fca044;
   padding: 10px 25px;
-  border-radius: 32px;
-  box-shadow: 0px 10px #e45c10;
+  border-radius: 0px;
+  box-shadow: 10px 10px rgba(0, 0, 0, 0.2);
 }
 
 .textblock p {
   background-color: white;
   padding: 20px;
-  box-shadow: 5px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 10px 10px rgba(0, 0, 0, 0.2);
 }
+
