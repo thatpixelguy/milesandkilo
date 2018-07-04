@@ -1,7 +1,7 @@
 <div class='textblock' markdown="1">
 ## iOS and Steam Support
 
-Feel free to [email Mike](mailto:mike@thepixelguy.com) if you have any questions regarding the iOS or Steam versions of Miles & Kilo.
+Feel free to [email Mike](mailto:mike@thepixelguy.com) if you have any questions about the iOS or Steam versions of Miles & Kilo.
 
 ## Nintendo Switch Support
 
