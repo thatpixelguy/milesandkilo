@@ -1,3 +1,3 @@
-# milesandkilo
+# Miles & Kilo website
 
-Project site for Miles & Kilo.
+GitHub Pages site for Miles & Kilo.
